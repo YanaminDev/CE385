@@ -8,7 +8,7 @@ for (i=1 ; i <= 50 ; i++){
         productOdd *= i
     }
     else if (i%2 == 0){
-        sumEven += i
+        sumEven += i 
     }
     
     
